@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478063403613",
+    "firebase_url": "https://qa-books.firebaseio.com",
+    "project_id": "qa-books",
+    "storage_bucket": "qa-books.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478063403613:android:c7d5c61eacda9b3b",
+        "android_client_info": {
+          "package_name": "com.example.nombu.findme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478063403613-13n77f9aa9lmfa6690qdal6orpjrcoia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nombu.findme",
+            "certificate_hash": "fc1686384b9419b42ba4118e23ee118ffba95b78"
+          }
+        },
+        {
+          "client_id": "478063403613-95o13puh90rv9e6jrn6ponl4v871bts9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYatQhLtsXoUkxOO7czRzlM7WIJAB9EXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478063403613-95o13puh90rv9e6jrn6ponl4v871bts9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
